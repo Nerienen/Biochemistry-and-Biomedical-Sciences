@@ -1,5 +1,64 @@
-filogenia,estudio de las relaciones evolutivas entre seres vivos
-alelo,versiones de un mismo gen
-gen,segmento de ácido desoxirribonucleico (ADN) que contiene las instrucciones para crear una proteína o una molécula funcional de ARN
+filogenia,estudio de las relaciones evolutivas entre seres vivos,
+alelo,versiones de un mismo gen.  different forms a gene might take. ,https://media.discordapp.net/attachments/1418304319563759626/1418304555355209738/image.png?ex=68cda28c&is=68cc510c&hm=415dc2b28b16fa2301fc1780a42f8a04e8b34efe41d61eb8a6215270ce5e9207&=&format=webp&quality=lossless
+gen,segmento de ácido desoxirribonucleico (ADN) que contiene las instrucciones para crear una proteína o una molécula funcional de ARN,
 identidad ,"una igualdad que siempre es cierta para todos los valores de las variables que se pueden usar.
-No es una ecuación cualquiera (que solo se cumple para algunos valores), sino que siempre se cumple. "
+No es una ecuación cualquiera (que solo se cumple para algunos valores), sino que siempre se cumple. ",
+ribosome,"performs protein synthesis . macromolecular machines found in all living cells that synthesize proteins by translating messenger RNA (mRNA). Located in the cytoplasm, ribosomes either float freely or attach to the endoplasmic reticulum in eukaryotic cells. Structurally, they consist of ribosomal RNA (rRNA) and proteins, forming two subunits: a smaller subunit for reading mRNA and a larger subunit for forming peptide bonds. 
+Eukaryotic cells have ribosomes in the cytoplasm, mitochondria, and chloroplasts.
+
+
+Prokaryotic Ribosomes
+Size: 70S (Svedberg units), composed of 50S (large) and 30S (small) subunits.
+Composition: Approximately 60% rRNA and 40% protein.
+Location: Found free-floating in the cytoplasm.
+
+
+Eukaryotic Ribosomes
+Size: 80S, composed of 60S (large) and 40S (small) subunits.
+Composition: Roughly 50% rRNA and 50% protein.
+Location: Found in the cytoplasm (free or bound to the endoplasmic reticulum) and within organelles like mitochondria and chloroplasts.
+
+
+",https://sciencenotes.org/wp-content/uploads/2025/01/Ribosomes-Function-1024x683.png
+Macromolecules ,"large organic molecules that form by polymerization, a process that joins smaller units called monomers via covalent bonds. These biological macromolecules are essential for life and include proteins, nucleic acids, carbohydrates, and lipids.  They generally have high melting and boiling points. This is because the covalent bonds and intermolecular forces make them quite stable. 
+Four Major Classes
+1. Carbohydrates
+Carbohydrates are organic compounds that consist primarily of carbon, hydrogen, and oxygen. They are key sources of energy for most organisms and serve as structural components in plants.
+Monomer: Monosaccharides (e.g., glucose)
+Bond Type: Glycosidic bonds
+Examples: Starch, cellulose, glycogen
+2. Proteins
+Proteins are complex macromolecules built from amino acid chains. They play a diverse role in the body, including catalyzing metabolic reactions, replicating DNA, responding to stimuli, and transporting molecules.
+Monomer: Amino acids
+Bond Type: Peptide bonds
+Examples: Enzymes, antibodies, hemoglobin
+3. Nucleic Acids
+Nucleic acids are the macromolecules responsible for storing and transmitting genetic information. DNA holds the instructions for building and maintaining an organism, while RNA plays a critical role in protein synthesis and other cellular processes.
+Monomer: Nucleotides
+Bond Type: Phosphodiester bonds
+Examples: DNA, RNA
+4. Lipids
+Lipids are a diverse group of hydrophobic molecules that include fats, oils, waxes, and certain vitamins. They are crucial for storing energy, building cellular membranes, and signaling within and between cells. Unlike other macromolecule classes, lipids are not polymers and are smaller in size. They fit the biochemistry definition of a macromolecule, but technically not the chemistry definition (over a thousand atoms).
+Monomer: Glycerol and fatty acids
+Bond Type: Ester bonds in triglycerides
+Examples: Fats, oils, waxes
+",https://sciencenotes.org/wp-content/uploads/2024/01/Macromolecules-Definition-1024x683.png
+ovum ,"female reproductive cell. 
+Corona radiata is the outermost layer surrounding the egg cell and consists of follicular cells. These cells play a role in nourishing and protecting the egg.
+Zona pellucida is the thick, transparent, and non-cellular layer located beneath the corona radiata. It is composed of glycoproteins and provides structural support to the egg. It also plays a crucial role in sperm-egg interaction during fertilization.
+Vitelline membrane is the innermost layer, which is a thin, transparent membrane secreted by the egg cell itself. This membrane provides additional protection to the egg.
+",https://microbenotes.com/wp-content/uploads/2024/03/Structure-of-Egg-Cell.jpeg
+adipocyte,fat cell,https://microbenotes.com/wp-content/uploads/2024/03/Structure-of-Fat-Cell-Adipocyte.jpeg
+Hemoglobin ,"complex protein comprising of globin and iron containing haem, produced within developing erythrocytes in the red bone marrow. helps transport CO2 from body cells to the lungs. 
+
+In mature erythrocytes, hemoglobin binds with oxygen to create oxyhemoglobin, imparting the characteristic red color to blood. 
+ a single hemoglobin molecule can transport up to four oxygen molecules ",https://microbenotes.com/wp-content/uploads/2023/08/Structure-of-Hemoglobin.jpeg
+"leukocytes 
+","White Blood Cells.  protecting the body from infections. produced in the bone marrow. some have granules in their cytoplasm. Due to the presence of nucleus, their metabolism is more complex than Red Blood Cells. 
+
+Types:
+Granulocytes: neutrophils, eosinophils, and basophils 
+Agranulocytes: Lymphocytes, monocytes
+
+",https://microbenotes.com/wp-content/uploads/2024/04/White-Blood-Cells-WBCs.jpeg
+apoptosis,Controlled death of cells ,
